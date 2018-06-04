@@ -12,3 +12,5 @@ class ThemedDecorations extends React.Component {
 }
 
 export default ThemedDecorations;
+
+//test
